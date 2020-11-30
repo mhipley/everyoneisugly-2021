@@ -1,0 +1,66 @@
+<div id="footer">
+    <div class="content container-fluid">
+        <div class="row">
+            <div class="col-xs-12 col-sm-4">
+                <h2>bio</h2>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lorem eros, maximus in rhoncus eget, vestibulum sit amet orci. Phasellus viverra magna non lacus viverra faucibus.Phasellus vel metus eget nulla vestibulum pretium quis sit amet augue. Vestibulum porttitor leo in felis aliquam, id efficitur elit iaculis.
+                </p>
+                <p>
+                    Nam augue sem, laoreet vitae consectetur id, consectetur et nulla. In iaculis risus magna, sed dignissim dolor aliquet sed. Aenean vel mauris massa. Donec finibus mi vel suscipit convallis. Mauris non ex iaculis, auctor libero at, hendrerit lorem.
+                </p>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+                <h2>artist statement</h2>
+                <p>
+                    Mauris condimentum vitae elit id pulvinar. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur fermentum orci nec mi faucibus interdum.
+                </p>
+                <p>
+                    Integer facilisis mi ut nulla molestie, non feugiat metus dignissim. Pellentesque tincidunt leo non auctor varius. Mauris consectetur semper fringilla. Vivamus malesuada mauris quis urna pharetra, eu lobortis augue faucibus. Maecenas laoreet leo a lorem bibendum cursus.
+                </p>
+                <p>
+                    Donec mattis eu lectus et ultrices. Mauris cursus pharetra nisl, lobortis lacinia tortor congue quis. Praesent bibendum a leo ac tincidunt. Donec ut vehicula lorem. Vivamus tincidunt consectetur tellus non blandit. Praesent non semper diam. Quisque nec commodo ex. Maecenas quis dictum arcu.
+                </p>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+                <h2>contact</h2>
+                <ul id="footer-list">
+
+                    <li>
+                        <a href="mailto:studio@everyoneisugly.com">studio@everyoneisugly.com</a>
+                    </li>
+                    
+                    <li>{%- include social.html -%}</li>
+
+                    <li>{%- include newsletter.html -%}</li>
+            
+                        
+                        
+
+                </ul>     
+            </div>                        
+        </div>
+        <div class="row xs-bottom end-xs">
+            
+                <div class="col-xs-12">
+                    <ul id="bottom-info">
+                        {%- if site.posts.size > 0 -%}
+                        <li>
+                        last updated {{ site.posts.first.date | date: "%Y-%m-%d"}}
+                        </li>
+                
+                        {%- endif -%}
+                        
+                        <li>© {{ "now" | date: "%Y"}} Martha Hipley LLC</li>
+                
+                        <li>open source typefaces by <a href="http://collletttivo.it/" target="_blank">Collletttivo</a>
+                        </li>
+                    </ul>
+
+            </div>
+        </div>
+        
+
+    </div>
+
+</div>

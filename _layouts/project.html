@@ -1,0 +1,57 @@
+---
+layout: default
+---
+<div class="project">
+
+    
+    <div class="project-nav prev-project">
+        {%- if {{page.previous}} != nil -%}
+        <a href="{{page.previous.url}}"><span class="icon icon-left"></span><div class="prev-text">previous project</div></a>
+        {%- endif -%}
+    </div>
+
+   
+
+    <div class="content container-fluid">
+        <div class="row middle-sm">
+            <div class="col-xs-12 col-sm-6 col-md-8">
+                    <div class="project-glider-contain">
+                        <div class="project-glider">
+                            {% for image in page.image-array %}
+                            <div class="project-card">
+                                <img src="{{site.url}}/assets/images/{{image.url}}" alt="{{image.alt}}">
+                                <div class="caption">{{image.caption}}</div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                      
+                        <button aria-label="Previous" class="glider-prev"><div class="icon icon-left"></div></button>
+                        <button aria-label="Next" class="glider-next"><div class="icon icon-right"></div></button>
+                        <div role="tablist" class="dots"></div>
+                    </div>
+
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4">
+
+                <div class="project-description">
+                    <h4>{{ page.title }}</h4>
+                    <h6>{{ page.date | date: "%Y"}}</h6>
+                    {{ content }}
+                
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    
+    
+    <div class="project-nav next-project">
+        {%- if page.next != nil -%}
+        <a href="{{page.next.url}}"><span class="icon icon-right"></span><div class="next-text">next project</div></a>
+        {%- endif -%}
+    </div>
+    
+
+</div>
+
+<script src="{{site.url}}/assets/js/project-glider.js"></script>

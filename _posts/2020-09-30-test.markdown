@@ -4,7 +4,23 @@ title:  "Ekphrasis"
 date:   2020-09-30 09:00:00 -0500
 feature-image: 20200930-feature.gif
 layout: project
-image-array: ["20200930-1.gif","20200930-2.gif","20200930-3.gif"]
+image-array: [
+    {
+        "url": "20200930-1.gif",
+        "caption": "screenshot from Ekphrasis",
+        "alt": "the player stands at the entrance to a museum"
+    },
+    {
+        "url": "20200930-2.gif",
+        "caption": "screenshot from Ekphrasis",
+        "alt": "a statue of a lion comes to life"
+    },
+    {
+        "url": "20200930-3.gif",
+        "caption": "screenshot from Ekphrasis",
+        "alt": "the player gazes into a nebula"
+    }
+]
 ---
 
 ##### Description

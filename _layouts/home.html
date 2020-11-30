@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+
+<div class="home">
+
+    <div class="content container-fluid">
+        <div class="glider-contain">
+            <div class="glider">
+                {%- for post in site.posts limit:10 -%}
+                
+                    <a href="{{ post.url }}">
+                    <div class="post-card">
+                        <div class="post-tag">
+                            <div class="post-title">{{ post.title }}</div>
+                            <div class="post-date">{{ post.date | date: "%Y"}}</div>
+                        </div>
+                        <div class="post-image" style="background-image: url('{{site.url}}/assets/images/{{ post.feature-image }}'">
+                                            
+                        </div>
+
+                        
+                    </div>
+                    </a>
+               
+            {%- endfor -%}
+            </div>
+        
+                <button aria-label="Previous" class="glider-prev"><span class="icon icon-left"></span></button>
+
+
+
+                <button aria-label="Next" class="glider-next"><span class="icon icon-right"></span></button>
+
+            
+
+        </div>
+
+
+
+    </div>
+
+</div>
+
+<script src="{{site.url}}/assets/js/home-glider.js"></script>

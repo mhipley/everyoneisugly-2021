@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400&display=swap');
+
+@font-face {
+    font-family: "mazius";
+    src: url("../../assets/typefaces/MAZIUSREVIEW20.09-Extraitalic.woff2") format("woff2"),
+         url("../../assets/typefaces/MAZIUSREVIEW20.09-Extraitalic.woff") format("woff");
+  }
+  @font-face {
+    font-family: "messapia";
+    src: url("../../assets/typefaces/Messapia-Bold.woff") format("woff"),
+         url("../../assets/typefaces/Messapia-Bold.woff2") format("woff2");
+  }
+  @font-face {
+    font-family: "necto";
+    src: url("../../assets/typefaces/Necto-Mono.woff") format("woff"),
+         url("../../assets/typefaces/Necto-Mono.woff2") format("woff2");
+  }
+  @font-face {
+    font-family: "sinistre";
+    src: url("../../assets/typefaces/Sinistre-StCaroline.woff") format("woff"),
+         url("../../assets/typefaces/Sinistre-StCaroline.woff2") format("woff2");
+  }
+
+
+html {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: $primary;
+}
+
+a { 
+    &.action {
+        text-transform: uppercase;
+        font-weight: 400;
+        text-decoration: none;
+        
+    }
+    text-decoration: underline;
+    color: $primary;
+    &:hover {
+        color: $accent;  
+    }
+    &:visited {
+        text-decoration: line-through;
+    }
+}
+
+::-webkit-input-placeholder { /* Edge */
+    color: $primary;
+    opacity: .5;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: $primary;
+    opacity: .5;
+}
+
+::placeholder {
+    color: $primary;
+    opacity: .5;
+}
+
+h1 {
+    font-family: "mazius", serif;
+    font-size: 4rem;
+    a { text-decoration: none; }
+    margin: 0 0 .5rem 0;
+}
+
+h2 {
+    font-family: "mazius", serif;
+    font-size: 2rem;
+    
+}
+
+h3 {
+    font-family: "mazius", serif;
+    font-size: 1.8rem;
+}
+
+h4 {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+h5 {
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+h6 {
+    font-size: 1em;
+    margin: 0;
+    font-weight: 300;
+}
+
+.action {
+    text-transform: uppercase;
+    font-weight: 400;
+    a {
+        text-decoration: none;
+    }
+}
