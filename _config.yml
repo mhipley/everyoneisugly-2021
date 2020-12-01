@@ -21,11 +21,12 @@
 title: everyoneisugly.com
 email: studio@everyoneisugly.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Martha Hipley is an artist and technologist.
+  martha hipley is an artist and technologist with over a decade of experience in both commercial digital products and conceptual art. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "" # the base hostname & protocol for your site, 2.g. http://example.com
+twitter_username: everyartisugly
+github_username:  mhipley
+social-img: social-card.jpg
 
 # Build settings
 theme: minima
@@ -51,3 +52,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+

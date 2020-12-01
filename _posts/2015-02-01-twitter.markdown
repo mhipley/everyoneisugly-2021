@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "ur cardboard pet"
+date:   2015-01-01 09:00:00 -0500
+display-date: "2015-2017"
+feature-image: urpet-1.jpg
+layout: project
+permalink: /projects/urcardboardpet/
+image-array: [
+    {
+        "url": "urpet-1.jpg",
+        "caption": "Stereoscopic view of one of the 'boyfriends.'",
+        "alt": "An illustration of a cute boy saying, 'I thought of you so often today.'"
+    },
+    {
+        "url": "urpet-2.jpg",
+        "caption": "A custom VR headset, inspired by 90s phones for teens.",
+        "alt": "A VR headset that is sprayed pink and attached to a pink wall phone."
+    },
+    {
+        "url": "urpet-3.jpg",
+        "caption": "Headset decoration station at the Internet Yami-Ichi.",
+        "alt": "Two girls add glittery stickers to VR headsets."
+    },
+    {
+        "url": "urpet-4.png",
+        "caption": "Custom interactive headsets on display at HeK.",
+        "alt": "Two people play with VR headsets encased in silicone."
+    }
+]
+---
+
+##### Description
+
+*ur cardboard pet* includes a series of VR projects and performances. it includes a web-based VR app, custom interactive hardware, and interactive activities designed for various exhibitions.
+
+Your personal pet is a comfort object, offering unconditional nonsexual love and endless compliments. Later versions of the project include a personality test to assign your perfect boyfriend from an array of archetypes and an interactive headset that blushes, warms to your touch, and has a heartbeat that accelerates based on the intensity of your grip.
+
+##### Concept & History
+
+The project is a satire of feminization of user interfaces. As products of a heteronormative, male-dominated industry, devices are often personified as subservient females (Siri, Alexa, etc.) in no small part because this renders them non-threatening.
+
+##### Production Details
+
+- web app made with Three.js and Google VR SDK
+- hand-painted illustrations of various “boyfriends”
+- interactive hardware made with Arduino
+- exhibited at Powrplnt, Haus der Elektronischen Künst, The Museum of Human Achievement, the NYC Internet Yami-ichi, and Carnegie Mellon University’s Art&&Code conference.

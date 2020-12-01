@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "tramps-l’oeil"
+date:   2011-01-01 09:00:00 -0500
+display-date: "2011-2014"
+feature-image: tramps-1.png
+layout: project
+permalink: /projects/tramps/
+image-array: [
+    {
+        "url": "tramps-1.png",
+        "caption": "A screenshot of the Tumblr blog with paintings paired with their sources.",
+        "alt": "A screenshot of a cascade of images on a blog."
+    },
+    {
+        "url": "tramps-2.jpg",
+        "caption": "A sample painting from the series.",
+        "alt": "A brightly colored painting of a young man."
+    },
+    {
+        "url": "tramps-3.png",
+        "caption": "A screenshot of a painting paired with its responses in the app.",
+        "alt": "A painting side-by-side with a list of comments and reblog notifications."
+    }
+]
+---
+
+##### Description
+
+*tramps-l’oeil* is a series of over 300 paintings intended as a call-and-response subversion of the male gaze on tumblr.
+
+The blog was an anonymous performance, and much of the speculation by visitors failed to discern it as anything but fandom. The paintings were numbered and shared back-to-back with the source images, including cryptic titles sourced from songs, poems, and films.
+
+[The original blog](https://tramps-loeil.tumblr.com/) is still available on Tumblr, with some source images now removed for violations with Tumblr’s new TOS.
+
+##### Concept & History
+
+Each painting appropriates a a photo of male model, drawing attention to how fashion photography as a genre itself appropriates the compositions and conventions of classical painting, while stripping them of historical context and conceptual complexity.
+
+##### Production Details
+
+- over 300 paintings and drawings, primarily made on paper
+- selections exhibited in Outlet’s “*SFW:* *Male Nudes by Female Painters”* in 2017

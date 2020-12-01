@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "origin of love"
+date:   2013-12-30 09:00:00 -0500
+display-date: "2013"
+feature-image: origin-2.jpg
+layout: project
+permalink: /projects/origin/
+image-array: [
+
+    {
+        "url": "origin-2.jpg",
+        "caption": "A takedown notification from Tumblr.",
+        "alt": "A screenshot of a notification of a violation of services."
+    },
+    {
+        "url": "origin-1.gif",
+        "caption": "The 13 paintings as a gif.",
+        "alt": "An animated gif of a penis becoming erect."
+    }
+]
+---
+
+##### Description
+
+*origin of love* is a series of 13 paintings that are a frame-by-frame recreation of a pornographic gif sourced from tumblr. It was first included in Tasty Zine's inaugural issue in 2013. Somewhat ironically, while the original paintings and the original gif are well-circulated on Tumblr to this day, a video of the paintings on display at Tasty's launch was removed for TOS violation.
+
+##### Concept & History
+
+The title of the series is a nod to Courbet's *"Origine du Monde."* The works were made with a distressed, layered technique to parallel the digital loss when a high resolution video is made into an animated gif. 
+
+##### Production Details
+
+- 13 paintings made with a technique of pigment layered sheets of vellum
+- published in *Tasty Zine*'s inaugural issue in 2013
+
+- a sequence of the paintings were also included in Outlet's _NSFW: Male Nudes by Female Painters_ exhibition in 2016.
