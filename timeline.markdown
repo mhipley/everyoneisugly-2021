@@ -82,9 +82,8 @@ permalink: /timeline/
   - *Venus, Gazing*, group show, Powrplnt, Brooklyn, NY
 
 - ##### Press & Publications
-
   - *ETLE:Illus*, graphic novel
-- ["This Queer Feminist Sci-Fi Performance Art is Game-Changing"](https://www.nylon.com/articles/etle-universe) - Nylon
+  - ["This Queer Feminist Sci-Fi Performance Art is Game-Changing"](https://www.nylon.com/articles/etle-universe) - Nylon
   
   
 
