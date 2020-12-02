@@ -10,10 +10,15 @@
     <meta name="twitter:title" content="{{site.title}}">
     <meta name="twitter:description" content="martha hipley is an artist and technologist with over a decade of experience in both commercial digital products and conceptual art.">
     <meta name="twitter:creator" content="@everyartisugly">
-    
     <meta name="twitter:image" content="{{site.url}}/assets/images/{{site.social-img}}">
-    
+
+    {%- if page.name == "index.markdown" -%}
     <meta property="og:title" content="{{site.title}}" />
+    <title>{{site.title}}</title>
+    {%- else -%}
+    <meta property="og:title" content="{{site.title}} | {{page.title}}" />
+    <title>everyoneisugly | {{page.title}}</title>
+    {%- endif -%}
     <meta property="og:type" content="profile" />
     <meta property="og:url" content="{{site.url}}" />
     <meta property="og:image" content="{{site.url}}/assets/images/{{site.social-img}}" />
