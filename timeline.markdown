@@ -76,16 +76,16 @@ permalink: /timeline/
 
   - [*untitled twitter hack*](/projects/twitter/), a social media performance
   - [*ur carboard pet*](/projects/urcardboardpet/), VR experience
-  - *ETLE:Illus*, graphic novel
-
+  
 - ##### Activities
 
   - *Venus, Gazing*, group show, Powrplnt, Brooklyn, NY
 
 - ##### Press & Publications
 
-  - ["This Queer Feminist Sci-Fi Performance Art is Game-Changing"](https://www.nylon.com/articles/etle-universe) - Nylon
-
+  - *ETLE:Illus*, graphic novel
+- ["This Queer Feminist Sci-Fi Performance Art is Game-Changing"](https://www.nylon.com/articles/etle-universe) - Nylon
+  
   
 
 ### 2014
