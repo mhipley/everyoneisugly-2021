@@ -238,7 +238,7 @@ body {
             column-width: auto;
         }
         @include breakpoint(md) {
-            column-count: 3;
+            column-count: 2;
             column-width: auto;
         }
         h3, h5 {

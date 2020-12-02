@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ETLE:Illus"
-date:   2015-06-01 09:00:00 -0500
+date:   2013-06-01 09:00:00 -0500
 display-date: "2013-2015"
 feature-image: etle-3.jpg
 layout: project
@@ -14,7 +14,7 @@ image-array: [
         "alt": "A young man caught in a spiral with the text: 'What's keeping you cleaved'"
     },
     {
-        "url": "etle-2.gif",
+        "url": "etle-2.jpg",
         "caption": "A full color spread mixing a hand-inked drawing with digital color.",
         "alt": "An image of a young man superimposed over psychadelic spirals"
     },
