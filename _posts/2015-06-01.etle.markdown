@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "ETLE:Illus"
+date:   2015-06-01 09:00:00 -0500
+display-date: "2013-2015"
+feature-image: etle-3.jpg
+layout: project
+permalink: /projects/etle/
+image-array: [
+
+    {
+        "url": "etle-1.gif",
+        "caption": "Cover art for the comic.",
+        "alt": "A young man caught in a spiral with the text: 'What's keeping you cleaved'"
+    },
+    {
+        "url": "etle-2.gif",
+        "caption": "A full color spread mixing a hand-inked drawing with digital color.",
+        "alt": "An image of a young man superimposed over psychadelic spirals"
+    },
+    {
+        "url": "etle-3.jpg",
+        "caption": "Sample page from the comic.",
+        "alt": "3 panels from a comic featuring twin teenage boys."
+    },
+    {
+        "url": "etle-4.gif",
+        "caption": "Concept art of one of the characters.",
+        "alt": "A young man wearing futuristic clothing."
+    }
+]
+---
+
+##### Description
+The A.O. Movement Collective commissioned a narrative comic for the [ETLE Universe](http://www.theaomc.org/etle/) from me in 2013. The story appeared in ETLE ILLUS, published in 2015.
+
+The story takes place within the timeline of the project's queer/feminist cyborg time travel epic, exploring a post-apocalyptic future where a violent gender revolution has ties to to our own past and present.
+
+
+##### Concept & History
+My contribution continues my own interest in subverting tropes of toxic masculinity with the female gaze and male characters in subservient emotional support roles. The story is essentially a romance, where two male characters find purpose and pleasure in serving a radical femme activist.
+
+
+##### Production Details
+- published in 2015 at the end of a 2-year immersive art cycle
+- full-length comic book with hand-inked panels and digital color

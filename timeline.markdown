@@ -82,6 +82,10 @@ permalink: /timeline/
 
   - *Venus, Gazing*, group show, Powrplnt, Brooklyn, NY
 
+- ##### Press & Publications
+
+  - ["This Queer Feminist Sci-Fi Performance Art is Game-Changing"](https://www.nylon.com/articles/etle-universe) - Nylon
+
   
 
 ### 2014
@@ -90,9 +94,8 @@ permalink: /timeline/
 
   - Rhizome microgrant awardee for [*“untitled twitter hack”*](/projects/twitter/)
 
-    
-
   
+
 
 ### 2013
 
@@ -118,11 +121,11 @@ permalink: /timeline/
 
   - *Persistence of Memory*, painting series and interactive installation
 
-    
-
 - ##### Activities
 
   - *IRL_URL*, group show, Muchmore’s, Brooklyn, NY
+  
+    
   
 
 ### 2011
