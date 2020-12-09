@@ -213,13 +213,7 @@ body {
 }
 
 .home {
-    img {
-        opacity: 0;
-    }
-    
-    img.hasloaded {
-        opacity: 1;
-    }
+
 }
 
 
@@ -409,3 +403,12 @@ body {
     scrollbar-color: $primary transparent;
     scrollbar-width: thin;
   }
+
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
