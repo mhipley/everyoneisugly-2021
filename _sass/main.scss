@@ -311,7 +311,7 @@ body {
        border-top: 1px solid $primary;
 
        @include breakpoint(sm){
-            padding: 1rem 2rem;
+            padding: 1rem 1rem 1rem 2rem;
             border-top: none;
             border-left: 1px solid $primary;
        }

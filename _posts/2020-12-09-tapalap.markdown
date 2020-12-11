@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "tap-a-lap-splash!"
+date:   2020-12-09 09:00:00 -0500
+display-date: "2020"
+feature-image: 20201209-feature.gif
+layout: project
+permalink: /projects/tapalapsplash/
+image-array: [
+    {
+        "url": "20201209-1.jpg",
+        "caption": "The experience begins.",
+        "alt": "An ocean with seagulls and fish."
+    },
+    {
+        "url": "20201209-2.jpg",
+        "caption": "The player controls the experience with their keyboard.",
+        "alt": "An overlay showing the keyboard controls for the experience."
+    },
+    {
+        "url": "20201209-3.jpg",
+        "caption": "A meditative state at sunset.",
+        "alt": "Whales and dolphins splash in front of a sunset."
+    }
+]
+---
+
+##### Description
+
+tap-a-lap-splash! is an interactive rhythm experience about seeking flow and calm. The player swims through an ocean environment using their keyboard, and by learning to control their movements, they can also control the immersive audio. There is no "win state" or achievements, the player is just encouraged to enjoy the environment as a meditation.
+
+The code for this project is open source and available [on Github](https://github.com/mhipley/tapalapsplash). The experience was originally made for [Gray Area's Winter Showcase 2020](https://grayarea.org/event/gray-area-artist-winter-showcase-2020/). The experience is also available [on itch.io](https://everyoneisugly.itch.io/tap-a-lap-splash).
+
+##### Concept & History
+
+In the practice of open water swimming, managing your heart rate and spatial awareness with rhythmic timing of strokes and breaths allows you stabilize yourself amidst an unstable and often unpredictable environment. I miss the focus and intention of that practice, and wanted to make something to share that experience.
+
+##### Production Details
+
+- made with [A-Frame](https://aframe.io/) and [Tone.js](https://tonejs.github.io/)
+- made as part of the [2020.2 Gray Area Immersive](https://grayarea.org/learn/immersive/)
+
+  
