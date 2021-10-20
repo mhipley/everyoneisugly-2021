@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "How does it make you feel?"
+date:   2021-10-01 09:00:00 -0500
+display-date: "2021"
+feature-image: howdoesit-1.jpg
+layout: project
+permalink: /projects/howdoesitmakeyoufeel/
+image-array: [
+    {
+        "url": "howdoesit-1.jpg",
+        "caption": "The cast of characters.",
+        "alt": "A lineup of 7 high school aged students, drawn in an indie comix style."
+    }
+]
+---
+
+##### Description
+
+*How does it make you feel?* is a visual novel, currently in development. It's an otome-style visual novel with a comical y2k-era setting and a twist. you won’t just play as the typical teen protagonist - instead, you’ll body swap with your friends, your classmates, even your crush as you try your best to balance everyone’s feelings and hormones. the more you’re aloof with your crush, the more he crushes on you… but if everyone is playing it cool, no one gets asked to prom!
+
+Follow the dev blog and sign up for the mailing list [here](https://howdoesit.cyou/).
+
+##### Concept & History
+
+As a fan of both visual novels and teen movies, I set out to make a semi-autobiographical, semi-satirical send-up of both beloved genres. In particular I want to explore themes of fate and identity-formation.
+
+##### Production Details
+
+- made with Unity
+
+- conceived during [School of Machines, Making and Make-Believe's Making Personal Games course](https://schoolofma.org/getting-personal.html)
+
+-  continued production via [Hyperlink Learning Adventure Club](https://hyperlink.academy/courses/hyperlink-learning-adventure-club/76) and [Pariah Interactive](https://pariahinteractive.com/) Summer Residency
+
+  

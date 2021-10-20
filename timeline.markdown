@@ -4,6 +4,19 @@ title: "timeline"
 permalink: /timeline/
 ---
 
+### 2021
+
+- ##### Projects
+
+  - *[How does it make you feel?](https://howdoesit.cyou/)*, video game in development
+
+- ##### Activities
+
+  - [Hyperlink Learning Adventure Club](https://hyperlink.academy/courses/hyperlink-learning-adventure-club/76) member for [*How does it make you feel?*](https://howdoesit.cyou/)
+  - [*Gender in Digital Interfaces*](https://hyperlink.academy/courses/gender-in-digital-interfaces/103), a 6-week course taught online via [Hyperlink Academy](https://hyperlink.academy/)
+  - [*Color and Accessibility*](http://schoolofma.org/color-and-accessibility.html), a 5-week course taught online via [School of Machines, Making & Make-Believe](https://schoolofma.org/)
+  - [Pariah Interactive](https://pariahinteractive.com/) Summer Residency for *[How does it make you feel?](https://howdoesit.cyou/)*
+
 ### 2020
 
 - ##### Projects
@@ -17,8 +30,6 @@ permalink: /timeline/
 - ##### Press & Publications
 
   - ["People are making amazing, tiny games with this free tool, and I can't get enough of them"](https://www.pcgamer.com/people-are-making-amazing-tiny-games-with-this-free-tool-and-i-cant-get-enough-of-them/) - PC Gamer
-  
-    
 
 ### 2019
 
@@ -40,8 +51,6 @@ permalink: /timeline/
 
   - *Art In Odd Places: BODY,* group exhibition, New York, NY
 
-    
-
 
 ### 2017
 
@@ -51,7 +60,6 @@ permalink: /timeline/
   - *SPAM'S*, group show, The Museum of Human Achievement, Austin
   - *The Unframed World,* group show, Haus der elektronischen Künste, Basel, Switzerland
 
-  
 
 
 ### 2016
@@ -67,7 +75,6 @@ permalink: /timeline/
   - *Art&Code Conference*, featured artist and presenter, CMU, Pittsburgh, PA
   - *2nd Annual NYC Internet Yami-Ichi,* group exhibition, Brooklyn, NY
 
-  
 
 
 ### 2015
